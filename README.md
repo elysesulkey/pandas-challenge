@@ -1,1 +1,8 @@
 # pandas-challenge
+Heroes of Pymoli Data Analysis
+
+The majority of Heroes of Pymoli players are male, making up roughly 84% of all players. Male players, however, spend slightly less money than other players as the average purchase total per male player is at least $0.40 less than the average purchase total per female and other/non-disclosed players. 
+
+In addition, the majority of players, roughly 76%, fall between ages 15 and 29, with the bulk falling between the ages of 20-24, accounting for roughly 45% of total players. Given the percentage of players in the 20-24 age range, it is not surprising that this age range also accounts for the majority of purchases. While the average purchase total per person in this age range is not the highest of all of the groups, the purchase volume makes players 20-24 the most profitable players, with a purchase value of $1,114.06, only $151.65 less than the rest of Heroes of Pymoli players combined. 
+
+The top two most popular items are also the top two most profitable items; a third item also appears in both the top five most popular and most profitable items. There is only a slight difference in the purchase count of the other items in the most popular and most profitable items lists. The real difference between popular and profitable items comes down to the purchase price. For example, while Extraction, Quickblade of Trembling Hands is the 5th most popular item with 9 purchases, it is replaced by Singed Scalpel as the 5th most profitable item with only 8 purchases since Singed Scalpel is $1.00 more to purchase than Extraction, Quickblade of Trembling Hands. 
